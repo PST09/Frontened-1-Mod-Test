@@ -1,11 +1,12 @@
-# Frontend-1 Module-Test
 
-The Webpage of an E-Commerce Website created with using HTML and CSS for the submission in AccioJob's Frontend-1 Module Test.
+# Spotify Clone
+
+An E-Commerce Clone Webpage created by using HTML and CSS for the submission in AccioJob.
 
 
 ## Authors
 
-- [@Ashish Kumar](https://www.github.com/AshishRock9394)
+- [@Priyanka Singh Tomer](https://www.github.com/PST09)
 
 
 ## Environment Variables
@@ -21,13 +22,13 @@ To run this project, you will need to add the following environment.
 Clone the project
 
 ```bash
-  git clone https://github.com/ashishRock9394/Frontend-Module-1/
+  git clone https://github.com/PST09/Frontened-1-Mod-Test
 ```
 
 Go to your project directory
 
 ```bash
-  cd Frontend-Module-1/
+  cd Frontened-1-Mod-Test
 ```
 Run in Web-Browser
 
@@ -39,21 +40,12 @@ Run in Web-Browser
 
 Home Page Screenshot:-
 
-![App Screenshot](https://github.com/Ashishrock9394/Frontend-Module-1/blob/main/images/s1.png)
+![App Screenshot](https://github.com/PST09/Frontened-1-Mod-Test/blob/main/images/s1.png)
+![App Screenshot](https://github.com/PST09/Frontened-1-Mod-Test/blob/main/images/s2.png)
+![App Screenshot](https://github.com/PST09/Frontened-1-Mod-Test/blob/main/images/s3.png)
+![App Screenshot](https://github.com/PST09/Frontened-1-Mod-Test/blob/main/images/s4.png)
 
 
-
-![App Screenshot](https://github.com/Ashishrock9394/Frontend-Module-1/blob/main/images/s2.png)
-
-
-
-![App Screenshot](https://github.com/Ashishrock9394/Frontend-Module-1/blob/main/images/s3.png)
-
-
-![App Screenshot](https://github.com/Ashishrock9394/Frontend-Module-1/blob/main/images/s4.png)
-
-
-![App Screenshot](https://github.com/Ashishrock9394/Frontend-Module-1/blob/main/images/s5.png)
 
 
 ## Tech Stack
@@ -62,4 +54,4 @@ Home Page Screenshot:-
 
 ## Support
 
-For support, email at ashishkumar394@gmail.com
+For support, email at priyanka430529@gmail.com
